@@ -19,6 +19,8 @@ https://www.notion.so/5-e841d441028e4dcfb61e2b5d752b629c
 + 황윤희: 회원가입, 로그인, 프로필 수정
 + 장성원:
 + 강찬욱:
+    -파티조회/생성/수정
+    -헤더/푸터/베너
 
 ## 프로젝트 구현 환경
 + Languages: <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
